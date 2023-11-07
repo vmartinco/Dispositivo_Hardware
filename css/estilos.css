@@ -13,7 +13,7 @@ main{
 .menu ul{
     position: absolute;
     top: 400px;
-    left: 100px;
+    left: 70px;
 }
 .menu li{
     display: inline;
